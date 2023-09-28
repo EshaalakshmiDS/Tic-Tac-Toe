@@ -49,6 +49,9 @@ Gameplay:<br>
 Winning and Draw:<br>
 •	The game will end when a player forms a line of three of their marks ('X' or 'O') horizontally, vertically, or diagonally.<br>
 •	If no player achieves a win after 9 moves, the game will end in a draw.<br>
+<br>
+<br>
 
- 
+## License
+
 
