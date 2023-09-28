@@ -36,4 +36,19 @@ Game Loop:<br>
 •	The game will continue until a winning condition is met or the game ends in a draw (after 9 moves).<br>
 •	The loop will display the current state of the board, prompt the active player for input, and update the board.
 
+ ## Usage Instructions:
+ Running the Game:<br>
+•	Compile the provided code using a C compiler (e.g., GCC).<br>
+•	Run the compiled executable to start the game.
+
+Gameplay:<br>
+•	Players will take turns entering the row and column where they want to mark ('X' or 'O').<br>
+•	The cells are numbered from 1 to 9, starting from the top-left corner.<br>
+•	Players should enter their choice as two space-separated integers (e.g., "1 2" for the first row and second column).
+
+Winning and Draw:<br>
+•	The game will end when a player forms a line of three of their marks ('X' or 'O') horizontally, vertically, or diagonally.<br>
+•	If no player achieves a win after 9 moves, the game will end in a draw.<br>
+
+ 
 
