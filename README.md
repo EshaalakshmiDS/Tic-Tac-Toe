@@ -4,12 +4,12 @@
     <br>
     <h1>TIC-TAC-TOE</h1>
     <p>
-The project centered around creating a classic game of Tic-Tac-Toe using C,Java,Python,Javascsript.
+The project centered around creating a classic game of Tic-Tac-Toe using C, Java, Python, Javascsript.
 </p>
 </div>
     
 ## Project Overview:
-The project centered around creating a classic game of Tic-Tac-Toe using C,Java,Python and Javascript. Tic-Tac-Toe is a two-player game where players take turns marking 'X' or 'O' on a 3x3 grid. The objective is to form a line of three of their marks either horizontally, vertically, or diagonally.
+The project centered around creating a classic game of Tic-Tac-Toe using C, Java, Python and Javascript. Tic-Tac-Toe is a two-player game where players take turns marking 'X' or 'O' on a 3x3 grid. The objective is to form a line of three of their marks either horizontally, vertically, or diagonally.
 
 ## Design:
 The game will be designed with the following components:<br>
